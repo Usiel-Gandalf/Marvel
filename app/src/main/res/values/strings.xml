@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="delete_favorites_button_description">Delete Favorites</string>
+    <string name="add_favorites_button_description">Add Favorites</string>
+    <string name="favorites_description">Favorites</string>
+    <string name="details_description">Details</string>
+    <string name="comic_without_description">Comic sin descripcion</string>
+    <string name="no_information_creator">No existe informacion del creador</string>
+    <string name="no_comic_suggestion">No hay sugerencias de comics</string>
+    <string name="no_result_text">Sin resultados</string>
+    <string name="search_text">Buscar</string>
+
+    <string name="titulo_descripcion">Titulo: </string>
+    <string name="comic_sugestion">Sugerencias del comic: </string>
+    <string name="creator_title">Creador: </string>
+    <string name="description_title">Descripcion: </string>
+
+    <string name="error_carga">Ocurrio un error, intente de nuevo porfavor.</string>
+</resources>
